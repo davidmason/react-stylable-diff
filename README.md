@@ -29,7 +29,7 @@ class MyComponent extends Component {
 
 You can also specify different values in `props.type`
 to compare in different ways. Valid values are `'chars'`,
-`'words'`, `'sentences'` and `'json'`:
+`'words'`, `'sentences'`, `'json'` and `'lines'`:
 
 
 ```javascript
